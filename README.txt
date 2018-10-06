@@ -8,6 +8,7 @@ Components: 1- Arduino Uno
             7- USB connection
             8- Breadboard
 Android Software: Bluetooth HC-05/06 Terminal 
+eg: https://play.google.com/store/apps/details?id=eu.jahnestacado.arduinorc
 
 This small Arduino application represents the logic of simple security system by asking the user to enter 4 digits PIN (password), then if the PIN is correct the green LED will light up, otherwise, the red LED will light up. 
 
